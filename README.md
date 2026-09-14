@@ -34,3 +34,6 @@ The files styles.css and content.js are a copy from the library html-bootstrap-e
 ## Library html-bootstrap editor compilation 
 1. Clone the project https://github.com/SN-RECIT-formation-a-distance/html-bootstrap-editor
 2. Run /src/create-link-editor.bat
+
+## Marketplace Moodle
+This plugin is also available on the **Moodle Plugin Marketplace**: [https://marketplace.moodle.com/plugins/2907](https://marketplace.moodle.com/plugins/2907)
