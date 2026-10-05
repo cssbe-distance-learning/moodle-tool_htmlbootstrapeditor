@@ -3,15 +3,15 @@
 The HTML Bootstrap editor allows you to create a much more attractive and responsive layout. It is based on the Bootstrap 4 framework and its drag-and-drop usage makes it easy to integrate content into Moodle. It offers a wide range of elements (text, image, Youtube video, embed elements, etc.) commonly used today. This editor meets the first level of accessibility standards and ensures a consistent presentation of content, regardless of the type of device used: computer, tablet or smartphone.
 
 # Dependencies
-* Bootstrap 4.6
+* Bootstrap 5
 * jQuery
 * FontAwesome
 
 # Non-standard post-installation steps
-After installing this plugin, it is necessary to install atto_htmlbootstrapeditor (https://moodle.org/plugins/atto_htmlbootstrapeditor) in order to add the button in the Atto editor.
+After installing this plugin, it is necessary to install tiny_htmlbootstrapeditor (https://moodle.org/plugins/tiny_htmlbootstrapeditor) in order to add the button in the TinyMCE editor.
 
 ## Showcase
-https://github.com/SN-RECIT-formation-a-distance/html-bootstrap-editor-showcase
+https://github.com/cssbe-distance-learning/html-bootstrap-editor-showcase
 
 ## Pixabay API
 To make the Pixabay feature available inside the editor, the administrator must:
@@ -32,8 +32,8 @@ This will tell the editor to load the specified CSS file (in this case, "example
 The files styles.css and content.js are a copy from the library html-bootstrap-editor.
 
 ## Library html-bootstrap editor compilation 
-1. Clone the project https://github.com/SN-RECIT-formation-a-distance/html-bootstrap-editor
-2. Run /src/create-link-editor.bat
+1. Clone the project https://github.com/cssbe-distance-learning/html-bootstrap-editor
+2. Run ./create-link-editor.bat
 
 ## Marketplace Moodle
 This plugin is also available on the **Moodle Plugin Marketplace**: [https://marketplace.moodle.com/plugins/2907](https://marketplace.moodle.com/plugins/2907)

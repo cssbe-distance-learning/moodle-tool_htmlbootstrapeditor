@@ -49,7 +49,7 @@ if ($ADMIN->fulltree) {
     $name = 'tool_htmlbootstrapeditor/showcase_url';
     $title = get_string('showcase_url', 'tool_htmlbootstrapeditor');
     $description = get_string('showcase_urldesc', 'tool_htmlbootstrapeditor');
-    $default = 'https://sn-recit-formation-a-distance.github.io/html-bootstrap-editor-showcase/index.html';
+    $default = 'https://cssbe-distance-learning.github.io/html-bootstrap-editor-showcase/index.html';
     $setting = new admin_setting_configtext($name, $title, $description, $default);
     $settings->add($setting);
    
